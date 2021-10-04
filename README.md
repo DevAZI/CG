@@ -13,10 +13,10 @@
 ![image](https://user-images.githubusercontent.com/80841284/135856522-0980bc95-e605-479e-b410-269854dd4f98.png)
 
 ## What is CG 
-1. Imaging : Representing 2D images   
-1. Modeling : Representing 3D objects  
-1. Rendering : Constructing 2D images from 3D objects  
-1. Animation : Simulating changes over time  
+● Imaging : Representing 2D images   
+●  Modeling : Representing 3D objects  
+● Rendering : Constructing 2D images from 3D objects  
+●  Animation : Simulating changes over time  
 
 ## 연관있는 학문 분야
 ### Science : 
@@ -35,19 +35,19 @@ Composition, Lighting, …
 
 ## Computer Graphics  vs  Image Processing 
 ### Computer Grapics:
-1. a computer is used to create a picture.(컴퓨터를 이용하여 영상(2D 생성))  
-1. model based approach(모델 기반 접근 -> vertex 정보, face, 눈등의 모델기반)  
-1. concerns pictorial synthesis of real or imagery objects from computer based model(실재나, 가상의 물건으로 2차원 영상을 만듬)  
-1. deals with vector data
+●  a computer is used to create a picture.(컴퓨터를 이용하여 영상(2D 생성))  
+●  model based approach(모델 기반 접근 -> vertex 정보, face, 눈등의 모델기반)  
+●  concerns pictorial synthesis of real or imagery objects from computer based model(실재나, 가상의 물건으로 2차원 영상을 만듬)  
+●  deals with vector data
 
 ### Image Processing 
-1. a computer is used to modify or interpret existing pictures. (컴퓨터를 이용하여 존재하는 이미지를 해석하거나 변경에 이용)  
-1. processing of sensor based data (센서기반으로 processing)
-1. concerns scene analysis 
-2. improving picture quality(화질개선)
-2. machine perception of  visual info(시각정보에 대한 인식)  -> Computer Vision
+●  a computer is used to modify or interpret existing pictures. (컴퓨터를 이용하여 존재하는 이미지를 해석하거나 변경에 이용)  
+●  processing of sensor based data (센서기반으로 processing)
+●  concerns scene analysis 
+  improving picture quality(화질개선)
+  machine perception of  visual info(시각정보에 대한 인식)  -> Computer Vision
   
->deals with pixel data
+deals with pixel data
 
 
 ## Two different views in studying CG
